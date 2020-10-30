@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/scatterbrain-site/static/css/main.cf244893.chunk.css",
-    "main.js": "/scatterbrain-site/static/js/main.dc73e961.chunk.js",
-    "main.js.map": "/scatterbrain-site/static/js/main.dc73e961.chunk.js.map",
-    "runtime-main.js": "/scatterbrain-site/static/js/runtime-main.8b76c078.js",
-    "runtime-main.js.map": "/scatterbrain-site/static/js/runtime-main.8b76c078.js.map",
-    "static/js/2.5e395daa.chunk.js": "/scatterbrain-site/static/js/2.5e395daa.chunk.js",
-    "static/js/2.5e395daa.chunk.js.map": "/scatterbrain-site/static/js/2.5e395daa.chunk.js.map",
-    "static/js/3.c904ffb4.chunk.js": "/scatterbrain-site/static/js/3.c904ffb4.chunk.js",
-    "static/js/3.c904ffb4.chunk.js.map": "/scatterbrain-site/static/js/3.c904ffb4.chunk.js.map",
+    "main.css": "/scatterbrain-site/static/css/main.1b6a3579.chunk.css",
+    "main.js": "/scatterbrain-site/static/js/main.c9ee7960.chunk.js",
+    "main.js.map": "/scatterbrain-site/static/js/main.c9ee7960.chunk.js.map",
+    "runtime-main.js": "/scatterbrain-site/static/js/runtime-main.8919ca2b.js",
+    "runtime-main.js.map": "/scatterbrain-site/static/js/runtime-main.8919ca2b.js.map",
+    "static/js/2.4aa29cab.chunk.js": "/scatterbrain-site/static/js/2.4aa29cab.chunk.js",
+    "static/js/2.4aa29cab.chunk.js.map": "/scatterbrain-site/static/js/2.4aa29cab.chunk.js.map",
+    "static/js/3.e6556c43.chunk.js": "/scatterbrain-site/static/js/3.e6556c43.chunk.js",
+    "static/js/3.e6556c43.chunk.js.map": "/scatterbrain-site/static/js/3.e6556c43.chunk.js.map",
     "index.html": "/scatterbrain-site/index.html",
-    "static/css/main.cf244893.chunk.css.map": "/scatterbrain-site/static/css/main.cf244893.chunk.css.map",
-    "static/js/2.5e395daa.chunk.js.LICENSE.txt": "/scatterbrain-site/static/js/2.5e395daa.chunk.js.LICENSE.txt"
+    "static/css/main.1b6a3579.chunk.css.map": "/scatterbrain-site/static/css/main.1b6a3579.chunk.css.map",
+    "static/js/2.4aa29cab.chunk.js.LICENSE.txt": "/scatterbrain-site/static/js/2.4aa29cab.chunk.js.LICENSE.txt",
+    "static/media/logo512.f45eb354.png": "/scatterbrain-site/static/media/logo512.f45eb354.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b76c078.js",
-    "static/js/2.5e395daa.chunk.js",
-    "static/css/main.cf244893.chunk.css",
-    "static/js/main.dc73e961.chunk.js"
+    "static/js/runtime-main.8919ca2b.js",
+    "static/js/2.4aa29cab.chunk.js",
+    "static/css/main.1b6a3579.chunk.css",
+    "static/js/main.c9ee7960.chunk.js"
   ]
 }
