@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scatterbrain-site/static/css/main.fe79400f.chunk.css",
-    "main.js": "/scatterbrain-site/static/js/main.d2e41352.chunk.js",
-    "main.js.map": "/scatterbrain-site/static/js/main.d2e41352.chunk.js.map",
+    "main.js": "/scatterbrain-site/static/js/main.898f6752.chunk.js",
+    "main.js.map": "/scatterbrain-site/static/js/main.898f6752.chunk.js.map",
     "runtime-main.js": "/scatterbrain-site/static/js/runtime-main.4d85dd9b.js",
     "runtime-main.js.map": "/scatterbrain-site/static/js/runtime-main.4d85dd9b.js.map",
     "static/js/2.2f45387c.chunk.js": "/scatterbrain-site/static/js/2.2f45387c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4d85dd9b.js",
     "static/js/2.2f45387c.chunk.js",
     "static/css/main.fe79400f.chunk.css",
-    "static/js/main.d2e41352.chunk.js"
+    "static/js/main.898f6752.chunk.js"
   ]
 }
