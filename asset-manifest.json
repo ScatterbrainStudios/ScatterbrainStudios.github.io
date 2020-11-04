@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scatterbrain-site/static/css/main.937b41ed.chunk.css",
+    "main.css": "/scatterbrain-site/static/css/main.f929f400.chunk.css",
     "main.js": "/scatterbrain-site/static/js/main.13a5cd80.chunk.js",
     "main.js.map": "/scatterbrain-site/static/js/main.13a5cd80.chunk.js.map",
     "runtime-main.js": "/scatterbrain-site/static/js/runtime-main.4d85dd9b.js",
@@ -10,14 +10,14 @@
     "static/js/3.46c2c4b7.chunk.js": "/scatterbrain-site/static/js/3.46c2c4b7.chunk.js",
     "static/js/3.46c2c4b7.chunk.js.map": "/scatterbrain-site/static/js/3.46c2c4b7.chunk.js.map",
     "index.html": "/scatterbrain-site/index.html",
-    "static/css/main.937b41ed.chunk.css.map": "/scatterbrain-site/static/css/main.937b41ed.chunk.css.map",
+    "static/css/main.f929f400.chunk.css.map": "/scatterbrain-site/static/css/main.f929f400.chunk.css.map",
     "static/js/2.7c760468.chunk.js.LICENSE.txt": "/scatterbrain-site/static/js/2.7c760468.chunk.js.LICENSE.txt",
     "static/media/logo512.f45eb354.png": "/scatterbrain-site/static/media/logo512.f45eb354.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d85dd9b.js",
     "static/js/2.7c760468.chunk.js",
-    "static/css/main.937b41ed.chunk.css",
+    "static/css/main.f929f400.chunk.css",
     "static/js/main.13a5cd80.chunk.js"
   ]
 }
